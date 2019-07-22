@@ -7,3 +7,5 @@ in the predictor file, i have used scikit learns multinomial naive bayes to pred
 
 i have accessed praw from 
 
+webapp: https://samikflair.heroku.com/
+
