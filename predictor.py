@@ -57,7 +57,7 @@ def predict(urls):
     ytrain.close()
 
     reddit = praw.Reddit(client_id ='6nyfvr2Ld0ZpqA',client_secret='m8JXMrtdZBpbptKU11uof9q4TPY',
-    password='s260300p',username='samik2603',user_agent='mycoolapp v1 by /u/samik2603')
+    password='##########',username='samik2603',user_agent='mycoolapp v1 by /u/samik2603')
 
     subreddit = reddit.subreddit('india')
     # links = list(Link.objects.values_list())
